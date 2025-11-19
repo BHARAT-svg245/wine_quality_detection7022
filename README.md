@@ -19,3 +19,5 @@ it is a very basic web apps.
 4.Matplotlib and Seaborn library for exploratory data analysis.
 #Results
 After trying various machine learning classification techniques ,i got 68% accuracy
+
+This line is for practice purpose of git and github
